@@ -10,7 +10,7 @@ with open("README.rst") as f:
 
 setup(
     version="1.0.6",
-    name="pretend",
+    name="confiskus",
     description="INI style files parser with basic inheritance feature.",
     long_description=description,
     author="Michal Kuffa",
