@@ -17,4 +17,13 @@ setup(
     author_email="michal.kuffa@gmail.com",
     py_modules=["confiskus"],
     license="BSD",
+    url="https://github.com/beezz/confiskus",
+    classifiers=[
+        "Intended Audience :: Developers",
+        "License :: OSI Approved :: BSD License",
+        "Operating System :: OS Independent",
+        "Topic :: Software Development",
+        "Programming Language :: Python :: 2.6",
+        "Programming Language :: Python :: 2.7",
+    ]
 )
